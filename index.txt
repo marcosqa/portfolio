@@ -39,7 +39,7 @@
                 <div class="resume-section-content">
                     <h1 class="mb-0">Marcos <span class="text-primary">Oliveira</span></h1>
                     <div class="subheading mb-5">Camaçari - ba - Brasil   · (71) 98704 -5941 · <a href="mailto:name@email.com">marcos.tads@yahoo.com</a></div>
-                    <p class="lead mb-5"> Graduado em Análise e Desenvolvimento de Sistemas pela Unitins.</p>
+                    <p class="lead mb-5"> Graduado em Análise e Desenvolvimento de Sistemas pela Unitins. Entusiasta do Ruby,com foco em automação de testes.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/marcosoliveira-"><i class="fab fa-linkedin-in"></i></a><a class="social-icon" href="https://github.com/marcosqa"><i class="fab fa-github"></i></a><a class="social-icon" href="https://www.instagram.com/teste_de_software"><i class="fab fa-instagram"></i>
 
@@ -53,79 +53,21 @@
                     <h2 class="mb-5">Experiência</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Analista de Testes Jr. | QA </h3>
+                            <h3 class="mb-0">Junior Analista de Testes | QA</h3>
                             <div class="subheading mb-3">Objetivo</div>
-                            <p>Procuro novos desafios profissionais e uma efetivação no mercado, tendo o
-                                desenvolvimento de minhas habilidades e a geração de resultados como
-                                objetivo, viabilizando um crescimento qualitativo e quantitativo para a
-                                empresa.</p>
+                            <p> Procuro vagas ligadas a area de teste de software.Preciso desenvolver o que estou aprendendo e praticar.Busco uma oportunidade para desenvolver meus conhecimentos, de estudo e faculdade no mercado de trabalho.Dê uma olhadinha no meu GitHub e Instagram sobre QA, tem varias coisas legais lá.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary"><!--June 2020 - Present--></span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Agente de Portaria</h3>
-                            <div class="subheading mb-3">Gocil Serviços</div>
-                            
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Período:Maio 2019 - Atual...</span></div>
-                    </div>
-                    
-
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
                             <h3 class="mb-0">Inspetor de Qualidade</h3>
                             <div class="subheading mb-3">Aktrion do Brasil Ltda</div>
-                            <p>Inspeção,repack e retrabalho de peças.</p>
-                            <p>Area Faurecia.</p>
+                            <p> Inspeção.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Período:08/2017 a 04/2018</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">Agosto 2017 - Abril 2018</span></div>
                     </div>
-
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Inspetor de Qualidade</h3>
-                            <div class="subheading mb-3">Sé Terceirização de Mão de Obra Ltda</div>
-                            <p>Inspeção,repack e retrabalho de peças.</p>
-                            <p>Area Faurecia.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Período:05/2017 a 08/2017</span></div>
-                    </div>
-
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Auxiliar de Produção</h3>
-                            <div class="subheading mb-3">Sé Terceirização de Mão de Obra Ltda</div>
-                            <p>Inspeção,repack e retrabalho de peças.</p>
-                            <p>Area Faurecia.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Período:02/2017 à 05/2017</span></div>
-                    </div>
-
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Auxiliar de Escritório</h3>
-                            <div class="subheading mb-3">Qualytec – Qualidade Técnica Ltda</div>
-                            <p>Elaboração de instrução de trabalho,lançamento em relatórios de horas e
-                                serviços,elaboração de planilhas em Excel.Atendimento ao cliente pessoalmente e por
-                                telefone.</p>
-                            <p>Area Complexo Industrial Ford Nordeste.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Período:08/2010 à 01/2015</span></div>
-                    </div>
-
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Auxiliar de Produção</h3>
-                            <div class="subheading mb-3">Qualytec – Qualidade Técnica Ltda</div>
-                            <p>Inspeção,repack e retrabalho de peças automotivas.</p>
-                            <p>Area Complexo Industrial Ford Nordeste.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Período:12/2006 à 07/2010</span></div>
-                    </div>
-
-
-
+                    
                 </div>
             </section>
             <hr class="m-0" />
@@ -163,6 +105,20 @@
                         <li class="list-inline-item"><i class="fab fa-node"></i></li>
                        
 
+                    </ul>
+                    <div class="subheading mb-3">O que eu aprendi nos cursos realizados na area de Teste de Software?</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>O primeiro curso que fiz foi o curso "Teste de Software: seja um expert e impulsione sua carreira",aprendi muito sobre os fundamentos,tecnicas e os niveis de testes.
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>Tive contato com automação de testes, apartir do curso "Processo de Automação de Teste com Selenium WebDriver",comecei a automatizar de fato com o curso de Robot Framework.
+                        </li>
+                       
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>Fiz varios cursos, mais falei de alguns de forma resumida. O importante é que cursos e Meteup que participo,adquiro mais conhecimento e aprendizado.
+                        </li>
+                    </ul>
                 </div>
             </section>
             <hr class="m-0" />
@@ -170,9 +126,10 @@
             <section class="resume-section" id="interesses">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interesses</h2>
-                    <p>Estou buscando recolocação em um dos cargos abaixo:</p>
-                    <p class="mb-0">Analista de Testes | Testador de Software | QA | Analista de Suporte | Analista de Infraestrutura de Redes
-                    </p>
+                    <p>Tenho interesse em participar de projetos que envolve teste de software.</p>
+                    <!--<p class="mb-0"> Procuro vagas de estagio,trainee e entre outras ligadas a area de teste de software.
+                        Busco uma oportunidade para desenvolver meus conhecimentos, de estudo e faculdade no mercado de trabalho.
+                        </p>-->
                 </div>
             </section>
             <hr class="m-0" />
